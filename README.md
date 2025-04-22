@@ -1,8 +1,11 @@
 # Data-Science-AI-ML-Syllabus.io
 
+-----
 ##Course Syllabus
 
-Python Intermediate
+-----
+### Python Intermediate
+
 •	For loops
 •	While loops
 •	If
@@ -13,7 +16,10 @@ Python Intermediate
 •	Functions
 •	Lambda function
 •	Comprehensions
-Python Advanced
+
+----
+###Python Advanced
+
 •	Error / Exception Handling
 •	File Handling
 •	JSON module
@@ -29,7 +35,10 @@ Python Advanced
 •	Polymorphism
 •	Abstraction
 •	Encapsulation
-Statistics Advanced
+
+----
+### Statistics Advanced
+
 •	Descriptive Statistics
 •	Measure of central tendency
 •	Measure of dispersion
@@ -41,7 +50,10 @@ Statistics Advanced
 •	Mean
 •	Median
 •	Mode
-Supervised Machine Learning Part 1
+
+-----
+### Supervised Machine Learning Part 1
+
 •	Linear Regression
 •	Simple Linear Regression
 •	Multiple Linear Regression
@@ -56,7 +68,10 @@ Supervised Machine Learning Part 1
 •	L1 and L2 Regularization
 •	Mini Project - 1: Developing Regression Model to find car cost status
 •	Mini Project - 2: Finding best Regression Line using Gradient Descent Optimizers
-Supervised Machine Learning Part 2
+
+-----
+### Supervised Machine Learning Part 2
+
 •	KNN
 •	Logistic Regression
 •	Naive Bayes
@@ -66,7 +81,10 @@ Supervised Machine Learning Part 2
 •	AdaBoost
 •	XG Boosting
 •	Support Vector Machine (SVM)
-Deep Learning ANN
+
+-----
+### Deep Learning ANN
+
 •	Neurons
 •	Synapses
 •	Weights
@@ -125,7 +143,10 @@ Deep Learning ANN
 •	Precision-Recall curve
 •	Mean Average Precision (mAP)
 •	R-squared
-Deep Learning CNN
+
+-----
+### Deep Learning CNN
+
 •	Convolutional layers
 •	Filters (kernels)
 •	Feature maps
@@ -148,7 +169,10 @@ Deep Learning CNN
 •	ResNet
 •	TensorFlow
 •	Keras
-OpenCV
+
+----
+### OpenCV
+
 •	Image reading and writing
 •	Image resizing
 •	Image rotation
@@ -162,7 +186,10 @@ OpenCV
 •	Feature detection
 •	Face detection
 •	Video processing
-Computer Vision
+
+--- 
+### Computer Vision
+
 •	Viola Jones
 •	HOG
 •	Yolo v1
@@ -174,7 +201,10 @@ Computer Vision
 •	Unet Segmentation
 •	v7 Segmentation
 •	POS Estimation
-NLP - Natural Language Processing
+
+---
+### NLP - Natural Language Processing
+
 •	Tokenization
 •	Lowercasing
 •	Stop word removal
@@ -187,7 +217,10 @@ NLP - Natural Language Processing
 •	Part-of-speech tagging
 •	Named entity recognition (NER)
 •	NLTK
-Generative AI
+
+----
+### Generative AI
+
 •	RNNs
 •	Hidden state
 •	Sequence modeling
@@ -210,7 +243,10 @@ Generative AI
 •	Stable Diffusion Models
 •	LangChain
 •	RAG
-Power BI
+
+---
+### Power BI
+
 •	Power BI Introduction
 •	Power BI Installations
 •	Data Explanation
@@ -231,7 +267,10 @@ Power BI
 •	Model View Explanation
 •	DAX Formulas
 •	Power Query
-SQL
+
+----
+### SQL
+
 •	SELECT statement
 •	FROM clause
 •	WHERE clause
@@ -256,7 +295,10 @@ SQL
 •	INSERT
 •	UPDATE
 •	DELETE
-Excel
+
+--- 
+### Excel
+
 •	Formulas and Functions
 •	Math formulas
 •	LOOKUP
